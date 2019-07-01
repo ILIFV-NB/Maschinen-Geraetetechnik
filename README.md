@@ -87,6 +87,7 @@ style="width: 100%; "
 |  |  | Startwerte | | |
 |--- |:---: |--- |--- | ---|
 | **Wendeschneidplatte** | | **ap** in mm | **fn** in mm/U | **vc** in m/min |
+| WNMG | | | | |
 |WNMG 080412 – WSS HB7020 | ![image](images/WNMG-080412-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
@@ -99,7 +100,7 @@ style = "width: 50%; "
 |WNMG 080404 – SS HB7020 | ![image](images/WNMG-080404-SS.png)<!--
 style = "width: 50%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
-| | | | | |
+|CNMG | | | | |
 |CNMG 120408 – WSS HB7020 | ![image](images/CNMG-120408-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
@@ -112,7 +113,7 @@ style = "width: 50%; "
 |CNMG 120412 – WSS HB7020 | ![image](images/CNMG-120412-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
-| | | | | |
+|DNMG | | | | |
 |DNMG 110408 – SS HB7020 | ![image](images/DNMG-110408-SS.png)<!--
 style = "width: 40%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
