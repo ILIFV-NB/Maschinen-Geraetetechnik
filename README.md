@@ -51,6 +51,7 @@ style = "width: 100%; "
 style = "width: 100%; "
 -->
 
+![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/Kistler-Messsystem-Aussendrehen.png)
 *Name*
 
 <br>
