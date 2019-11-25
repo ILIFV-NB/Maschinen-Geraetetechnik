@@ -18,41 +18,55 @@ Hier finden Sie einen Überblick zur im Praktikum "Drehen" verwendeten Maschinen
 
 <br>
 ![image](images/Maschinen_u_Geraete.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 -->
 
 ## Werkzeugmaschine
 
 ~~**Drehmaschine**~~
 
-![image](images/WZM-EMCO.png)<!--
-style = "width: 100%; "
+![image](images/EMCO.jpg)<!--
+style = "width: 75%; "
 -->
 
-*EMCOMAT E-300, zyklengesteuert*
+*EMCOMAT E-300, zyklengesteuerte Drehmaschine*
 
 <br>
-**Eigenschaften**
-* Spitzenweite:	1.500 mm
-* Umlauf-∅ über Bett:	570 mm
-* Umlauf-∅ über Schlitten:	340 mm
-* Vorschubkraft X: max.	1.000 daN
-* Vorschubkraft Z: max.	1.500 daN
-* Spindeldrehzahl:	0 - 2.500 U/min
-* Drehzahlregelung:	stufenlos
-* Antriebsleistung bei 40/100 % ED:	25/17 kW
-* max. Nennmoment an der Hauptspindel:	764/519 Nm
+
+**Technische Daten**
+
+|Spitzenweite|$mm$ |$1500$ |
+| Umlauf- $\text{\O}$ über Bett | $mm$|$570$ |
+|Umlauf- $\text{\O}$ über Schlitten | $mm$ | $340$ |
+| Vorschubkraft X max. | $daN$ | $1000$ |
+| Vorschubkraft Z max. | $daN$|$1500$|
+| Spindeldrehzahl| $U/mm$| $0\space-\space2500$|
+|Drehzahlregelung| | stufenlos|
+| Antriebsleistung bei $40/100\space$ % ED|$kW $| $25/17$|
+| Max. Nennmoment an der Hauptspindel| $Nm$| $764/519$|
+|Prozesskühlung| | Emulsion |
+
 
 ## Kraftsensorik
 
+**Messkette:**
+
+Dynamometer
+
+Ladungsverstärker
+
+Analog-/Digitalwandler
+
+<br/>
+
 ~~**Dynamometer**~~
 
-**image**<!--
-style = "width: 100%; "
--->
+9265B
 
-![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/Kistler-Messsystem-Aussendrehen.png)
-*Name*
+Bild
+
+
+*Kistler Kraftmesssystem Drehen*
 
 <br>
 
@@ -61,26 +75,32 @@ style = "width: 100%; "
 
 <br>
 
-~~**Ladungsverstärker**~~
-
-ICAM - programmierbarer, industrieller Ladungsverstärker<br>
-3-Kanal, BNC-Eingangsstecker<br>
-* Messbereich: ±100 ... 1 000 000 pC
-* Anzahl Kanäle: 3
-* Ladungseingang: BNC neg.
-* Ausgangssignal: -10 ... 10 V
-* Schnittstelle: RS-232C
-<br>
-
-~~**Analog-/Digitalwandler**~~
 
 ## Werkzeuge
 
-~~**Werkzeughalter**~~
+~~**Im Praxisteil verwendete Werkzeughalter**~~
 
-<br>
+Die Werkzeughalter mit den folgenden Spezifikationen stehen Ihnen für die Versuche zur Verfügung:
+
+|DCLNR 2525 M 12 |DDJNR 2525 M 11   | DWLNR 2525 M 08|
+|:---:|:---:|:---:
+| ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DCLNR2525M12.png)<!--
+style="width: 50%; "
+-->| ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DDJNR2525M11.png)<!--
+style="width: 50%; "
+-->|  ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DWLNR2525M08.png)<!--
+style="width: 50%; "
+--> |
+
+[Quelle: Firma Sandvik]
+
+Eigenschaften???
+
+<br/>
 
 ~~**Im Praxisteil verwendete Wendeschneidplatten**~~
+
+Der folgenden Tabelle können Sie die Schnittparameter entnehmen. Beachten Sie die Ihrer Gruppe zugeordnete Wendeschneidplatte!
 
 <!--
 style="width: 100%; "
@@ -130,18 +150,38 @@ style = "width: 40%; "
 
 ~~**Rauheitsmessgerät**~~
 
-**image**<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/HommelT1000basic-gr.png)<!--
 style = "width: 100%; "
 -->
 
 
-*Hommel Etamic T1000*
+*Hommel T1000 basic*
 
 <br>
-**Eigenschaften**
+**Allgemein**
+
+* Messprinzip: Tastschnittverfahren
+* Erfassung von Rauheits- Welligkeits- und Profilparametern (56 Kenngrößen nach DIN/ISO/JIS/Motif)
+* Ausdruck von Kenngrößen, R-, P-, W-Profil und Materialanteilskurve
+* Stationärer Messplatz (Stativ)
 
 <br>
+**Technische Daten**
 
+|**Tastsystem**| | | |
+| | Messart | |Gleitkufenmessung |
+| |Messbereich | $µm$ | $\pm \space 80$ |
+| | Auflösung | $µm$ | $0,01$ |
+| | Tastgeschwindigkeit vt| $mm/s$|$0,15/\space0,5/\space1,0$|
+| | Tastarm/Tastspitze| | Diamant $5\spaceµm/\space90°$|
+|**Vorschubeinheit**| | | |
+| | Einsetzbare Taster| | $16$|
+| | Taststrecke (max.)| $mm$| $16$|
+| |Tastrichtung| | Axial, Querabtastung |
+| |Arbeitsbereich| $°$ | > $360$|
+
+
+<br/>
 ~~**Software: Waveline Evovis Mobile**~~<br>
 
 PC- basierendes Auswerteprogramm für  mobile Rauheitsmessgeräte:<br>
@@ -155,11 +195,11 @@ Funktionsbereiche
 
 ~~**Digitale Bügelmessschraube**~~
 
-![image](images/DBM-Mahr_Micromar_EWRi.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DBM-Mahr_Micromar_EWRi.png)<!--
 style = "width: 100%; "
 -->
 
-*Micromar 40 EWRi mit Funkadapter, Mahr*
+*Mahr Micromar 40 EWRi mit Funkadapter*
 
 <br>
 **Eigenschaften**
