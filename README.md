@@ -151,7 +151,7 @@ style = "width: 40%; "
 ~~**Rauheitsmessgerät**~~
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/HommelT1000basic-gr.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 -->
 
 
@@ -196,7 +196,7 @@ Funktionsbereiche
 ~~**Digitale Bügelmessschraube**~~
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DBM-Mahr_Micromar_EWRi.png)<!--
-style = "width: 100%; "
+style = "width: 75%; "
 -->
 
 *Mahr Micromar 40 EWRi mit Funkadapter*
