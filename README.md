@@ -17,7 +17,7 @@ narrator: DE FEMALE
 Hier finden Sie einen Überblick zur im Praktikum "Drehen" verwendeten Maschinen-    und Gerätetechnik. Nutzen Sie die folgenden Informationen, um sich mit der Technik vertraut zu machen und zur Vervollständigung des anzufertigenden Protokolls.
 
 <br>
-![image](images/Maschinen_u_Geraete.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/Maschinen_u_Geraete.png)<!--
 style = "width: 75%; "
 -->
 
@@ -92,7 +92,7 @@ style="width: 50%; "
 style="width: 50%; "
 --> |
 
-[Quelle: Firma Sandvik]
+(Quelle: Firma Sandvik)
 
 Eigenschaften???
 
@@ -170,15 +170,15 @@ style = "width: 75%; "
 
 |**Tastsystem**| | | |
 | | Messart | |Gleitkufenmessung |
-| |Messbereich | $µm$ | $\pm \space 80$ |
-| | Auflösung | $µm$ | $0,01$ |
+| |Messbereich | $\mu m$ | $\pm \space 80$ |
+| | Auflösung | $\mu m$ | $0,01$ |
 | | Tastgeschwindigkeit vt| $mm/s$|$0,15/\space0,5/\space1,0$|
-| | Tastarm/Tastspitze| | Diamant $5\spaceµm/\space90°$|
+| | Tastarm/Tastspitze| | Diamant $5\space \mu m/\space90°$|
 |**Vorschubeinheit**| | | |
 | | Einsetzbare Taster| | $16$|
 | | Taststrecke (max.)| $mm$| $16$|
 | |Tastrichtung| | Axial, Querabtastung |
-| |Arbeitsbereich| $°$ | > $360$|
+| |Arbeitsbereich| $\degree $ | > $360$|
 
 
 <br/>
