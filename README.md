@@ -25,7 +25,7 @@ style = "width: 75%; "
 
 ~~**Drehmaschine**~~
 
-![image](images/EMCO.jpg)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/EMCO.jpg)<!--
 style = "width: 75%; "
 -->
 
@@ -109,39 +109,39 @@ style="width: 100%; "
 |--- |:---: |--- |--- | ---|
 | **Wendeschneidplatte** | | **ap** in mm | **fn** in mm/U | **vc** in m/min |
 | WNMG | | | | |
-|WNMG 080412 – WSS HB7020 | ![image](images/WNMG-080412-WSS.png)<!--
+|WNMG 080412 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/WNMG-080412-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
-|WNMG 080408 – WSS HB7020 | ![image](images/WNMG-080408-WSS.png)<!--
+|WNMG 080408 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/WNMG-080408-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
-|WNMG 080408 – SS HB7020 | ![image](images/WNMG-080408-SS.png)<!--
+|WNMG 080408 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/WNMG-080408-SS.png)<!--
 style = "width: 50%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
-|WNMG 080404 – SS HB7020 | ![image](images/WNMG-080404-SS.png)<!--
+|WNMG 080404 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/WNMG-080404-SS.png)<!--
 style = "width: 50%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
 |CNMG | | | | |
-|CNMG 120408 – WSS HB7020 | ![image](images/CNMG-120408-WSS.png)<!--
+|CNMG 120408 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/CNMG-120408-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
-|CNMG 120408 – SS HB7020 | ![image](images/CNMG-120408-SS.png)<!--
+|CNMG 120408 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/CNMG-120408-SS.png)<!--
 style = "width: 60%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
-|CNMG 120404 – SS HB7020 | ![image](images/CNMG-120404-SS.png)<!--
+|CNMG 120404 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/CNMG-120404-SS.png)<!--
 style = "width: 50%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
-|CNMG 120412 – WSS HB7020 | ![image](images/CNMG-120412-WSS.png)<!--
+|CNMG 120412 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/CNMG-120412-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
 |DNMG | | | | |
-|DNMG 110408 – SS HB7020 | ![image](images/DNMG-110408-SS.png)<!--
+|DNMG 110408 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DNMG-110408-SS.png)<!--
 style = "width: 40%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
-|DNMG 110404 – SS HB7020 | ![image](images/DNMG-110404-SS.png)<!--
+|DNMG 110404 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DNMG-110404-SS.png)<!--
 style = "width: 40%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
-|DNMG 110408 – WSS HB7020 | ![image](images/DNMG-110408-WSS.png)<!--
+|DNMG 110408 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DNMG-110408-WSS.png)<!--
 style = "width: 40%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
 ***
@@ -173,7 +173,7 @@ style = "width: 75%; "
 | |Messbereich | $\mu m$ | $\pm \space 80$ |
 | | Auflösung | $\mu m$ | $0,01$ |
 | | Tastgeschwindigkeit vt| $mm/s$|$0,15/\space0,5/\space1,0$|
-| | Tastarm/Tastspitze| | Diamant $5\space \mu m/\space90°$|
+| | Tastarm/Tastspitze| | Diamant $5\space \mu m/\space90 \degree $|
 |**Vorschubeinheit**| | | |
 | | Einsetzbare Taster| | $16$|
 | | Taststrecke (max.)| $mm$| $16$|
