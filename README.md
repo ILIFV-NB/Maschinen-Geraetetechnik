@@ -47,34 +47,6 @@ style = "width: 75%; "
 |Prozesskühlung| | Emulsion |
 
 
-## Kraftsensorik
-
-**Messkette:**
-
-Dynamometer
-
-Ladungsverstärker
-
-Analog-/Digitalwandler
-
-<br/>
-
-~~**Dynamometer 9265B**~~
-
-<br/>
-Bild
-
-
-*Kistler Kraftmesssystem Drehen*
-
-<br>
-
-**Eigenschaften**
-
-
-<br>
-
-
 ## Werkzeuge
 
 ~~**Im Praxisteil verwendete Werkzeughalter**~~
@@ -142,6 +114,32 @@ style = "width: 40%; "
 style = "width: 40%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
 ***
+
+## Kraftsensorik
+
+**Messkette:**
+
+Dynamometer
+
+Ladungsverstärker
+
+Analog-/Digitalwandler
+
+<br/>
+
+~~**Dynamometer 9265B**~~
+
+<br/>
+Bild
+
+
+*Kistler Kraftmesssystem Drehen*
+
+<br>
+
+**Eigenschaften**
+
+
 
 ## Rauheitsmessung
 
