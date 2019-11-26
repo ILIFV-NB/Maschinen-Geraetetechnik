@@ -59,10 +59,9 @@ Analog-/Digitalwandler
 
 <br/>
 
-~~**Dynamometer**~~
+~~**Dynamometer 9265B**~~
 
-9265B
-
+<br/>
 Bild
 
 
@@ -82,7 +81,7 @@ Bild
 
 Die Werkzeughalter mit den folgenden Spezifikationen stehen Ihnen für die Versuche zur Verfügung:
 
-|DCLNR 2525 M 12 |DDJNR 2525 M 11   | DWLNR 2525 M 08|
+| [DCLNR 2525 M 12](https://www.sandvik.coromant.com/de-de/pages/search15products.aspx?tpcleaf=TRNG_IND_COR&q=DCLNR%202525%20M%2012#query=%7B%22n%22:%22%22,%22l%22:%22TRNG_IND_COR%22,%22r%22:%5B%7B%22n%22:%22TIBPAvailability%22,%22v%22:%5B%7B%22n%22:%22Available%22%7D%5D%7D,%7B%22n%22:%22CopCUTINTMASTER%22,%22v%22:%5B%7B%22n%22:%22%5C%22%C7%82%C7%82434e4d4720313230343038%5C%22%22%7D%5D%7D%5D,%22c%22:%5B%5D%7D) | [DDJNR 2525 M 11](https://www.sandvik.coromant.com/de-de/products/Pages/productdetails.aspx?c=DDJNR%202525M%2011)  | [DWLNR 2525 M 08](https://www.sandvik.coromant.com/de-de/products/Pages/productdetails.aspx?c=DWLNR%202525M%2008#query=%7B%22n%22:%22Tool%20Item%22,%22l%22:%22%22,%22r%22:%5B%7B%22n%22:%22TIBPAvailability%22,%22v%22:%5B%7B%22n%22:%22Available%22%7D%5D%7D%5D,%22c%22:%5B%5D%7D)|
 |:---:|:---:|:---:
 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DCLNR2525M12.png)<!--
 style="width: 50%; "
@@ -93,8 +92,6 @@ style="width: 50%; "
 --> |
 
 (Quelle: Firma Sandvik)
-
-Eigenschaften???
 
 <br/>
 
@@ -151,7 +148,7 @@ style = "width: 40%; "
 ~~**Rauheitsmessgerät**~~
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/HommelT1000basic-gr.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 
@@ -184,11 +181,11 @@ style = "width: 75%; "
 <br/>
 ~~**Software: Waveline Evovis Mobile**~~<br>
 
-PC- basierendes Auswerteprogramm für  mobile Rauheitsmessgeräte:<br>
-Funktionsbereiche
+PC- basierendes Auswerteprogramm für  mobile Rauheitsmessgeräte. Funktionsbereiche: <br>
+
 * direkte Messplatzsteuerung des angeschlossenen Rauheitsmessgerätes
-* Auswertung offline erfasster Messungen(Rauheitsprofile)
-* Auswertung offline erfasster Messungen(Kenngrößendateien)
+* Auswertung offline erfasster Messungen (Rauheitsprofile)
+* Auswertung offline erfasster Messungen (Kenngrößendateien)
 * Datenexport Merkmals- und Profildaten
 
 ## Durchmessermessung
@@ -196,7 +193,7 @@ Funktionsbereiche
 ~~**Digitale Bügelmessschraube**~~
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DBM-Mahr_Micromar_EWRi.png)<!--
-style = "width: 75%; "
+style = "width: 60%; "
 -->
 
 *Mahr Micromar 40 EWRi mit Funkadapter*
