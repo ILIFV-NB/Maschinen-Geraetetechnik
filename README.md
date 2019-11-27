@@ -144,7 +144,7 @@ Das Dynamometer besteht aus einer Grundeinheit, auf welche je nach Anwendung ein
 <br/>
 
 ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/Kistler-9265B_1.png)<!--
-style = "width: 50%; "
+style = "width: 40%; "
 -->
 
 *Dynamometer Typ 9265B, Firma Kistler Instrumente AG*
