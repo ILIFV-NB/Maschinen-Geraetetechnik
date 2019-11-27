@@ -117,28 +117,37 @@ style = "width: 40%; "
 
 ## Kraftsensorik
 
-**Messkette:**
+**~~Messkette:~~**
 
-Dynamometer
+* 3-Komponenten-Dynamometer
+* Anschlusskabel
+* Ladungsverstärker
+* Anschlusskabel
+* Messverstärker (AD-Wandlung)
+* PC mit Software
 
-Ladungsverstärker
+<br/>
 
-Analog-/Digitalwandler
+**~~3-Komponenten-Dynamometer~~**
+
+Typ 9265B
+Hersteller: Kistler Instrumente AG
+
+Das Mehrkomponenten-Dynamometer dient zum dynamischen und quasistatischen Messen der drei orthogonalen Komponenten einer beliebig an der Deckplatte angreifenden Kraft (Fx, Fy und Fz).
+
+Die wichtigsten Einsatzgebiete für das Mehrkomponenten-Dynamometer sind:
+Schnittkraftmessungen beim Drehen, Fräsen, Schleifen und weitere Bearbeitungsvorgänge.
+Hohe Empfindlichkeit und kalibrierte Teilbereiche erlauben exakte Messungen auch an kleinen Werkzeugen und beim Schleifen.
+
+Das Dynamometer besteht aus einer Grundeinheit, auf welche je nach Anwendung ein Stahlhalter für Drehen (mit Drehwerkzeugen bis zu 32x32 mm bzw. ø32 mm) oder eine Aufspannplatte für Fräsen, Schleifen usw. aufgeschraubt wird. Die Grundeinheit besteht aus vier 3-Komponenten-Kraftsensoren, die unter hoher Vorspannung zwischen einer Grundplatte und einer Deckplatte eingebaut sind. Die Kraftsensoren enthalten je drei Quarzkristall-Plattenpaare, wovon das eine auf Druck in der z-Richtung und die beiden anderen auf Schub in der x- bzw. y-Richtung empfindlich ist. Die Kraftkomponenten werden praktisch weglos gemessen.
 
 <br/>
 
-~~**Dynamometer 9265B**~~
+![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/Kistler-9265B_1.png)<!--
+style = "width: 50%; "
+-->
 
-<br/>
-Bild
-
-
-*Kistler Kraftmesssystem Drehen*
-
-<br>
-
-**Eigenschaften**
-
+*Dynamometer Typ 9265B, Firma Kistler Instrumente AG*
 
 
 ## Rauheitsmessung
