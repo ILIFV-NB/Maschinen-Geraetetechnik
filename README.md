@@ -165,8 +165,8 @@ style = "width: 60%; "
 **Allgemein**
 
 * Messprinzip: Tastschnittverfahren
-* Erfassung von Rauheits- Welligkeits- und Profilparametern (56 Kenngrößen nach DIN/ISO/JIS/Motif)
-* Ausdruck von Kenngrößen, R-, P-, W-Profil und Materialanteilskurve
+* Erfassung von Rauheitsparametern (Kenngrößen nach DIN/ISO)
+* Ausdruck von Kenngrößen, R-Profil und Materialanteilskurve
 * Stationärer Messplatz (Stativ)
 
 <br>
