@@ -4,11 +4,13 @@ author:   Nancy Brinkmann, Ronny Stolze
 
 email:    nancy.brinkmann@hs-magdeburg.de, ronny.stolze@hs-magdeburg.de
 
-version:  1.0.0
+version:  11.20
 
-language: de_DE
+language: de
 
 narrator: DE FEMALE
+
+comment:  Maschinen- und Gerätetechnik
 
 -->
 
@@ -53,7 +55,7 @@ style = "width: 75%; "
 
 Die Werkzeughalter mit den folgenden Spezifikationen stehen Ihnen für die Versuche zur Verfügung:
 
-| [DCLNR 2525 M 12](https://www.sandvik.coromant.com/de-de/pages/search15products.aspx?tpcleaf=TRNG_IND_COR&q=DCLNR%202525%20M%2012#query=%7B%22n%22:%22%22,%22l%22:%22TRNG_IND_COR%22,%22r%22:%5B%7B%22n%22:%22TIBPAvailability%22,%22v%22:%5B%7B%22n%22:%22Available%22%7D%5D%7D,%7B%22n%22:%22CopCUTINTMASTER%22,%22v%22:%5B%7B%22n%22:%22%5C%22%C7%82%C7%82434e4d4720313230343038%5C%22%22%7D%5D%7D%5D,%22c%22:%5B%5D%7D) | [DDJNR 2525 M 11](https://www.sandvik.coromant.com/de-de/products/Pages/productdetails.aspx?c=DDJNR%202525M%2011)  | [DWLNR 2525 M 08](https://www.sandvik.coromant.com/de-de/products/Pages/productdetails.aspx?c=DWLNR%202525M%2008#query=%7B%22n%22:%22Tool%20Item%22,%22l%22:%22%22,%22r%22:%5B%7B%22n%22:%22TIBPAvailability%22,%22v%22:%5B%7B%22n%22:%22Available%22%7D%5D%7D%5D,%22c%22:%5B%5D%7D)|
+| [DCLNR 2525 M 12](https://www.sandvik.coromant.com/de-de/products/Pages/productdetails.aspx?c=DCLNR%202525M%2012) | [DDJNR 2525 M 11](https://www.sandvik.coromant.com/de-de/products/Pages/productdetails.aspx?c=DDJNR%202525M%2011)  | [DWLNR 2525 M 08](https://www.sandvik.coromant.com/de-de/products/Pages/productdetails.aspx?c=DWLNR%202525M%2008#query=%7B%22n%22:%22Tool%20Item%22,%22l%22:%22%22,%22r%22:%5B%7B%22n%22:%22TIBPAvailability%22,%22v%22:%5B%7B%22n%22:%22Available%22%7D%5D%7D%5D,%22c%22:%5B%5D%7D)|
 |:---:|:---:|:---:
 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DCLNR2525M12.png)<!--
 style="width: 50%; "
@@ -69,15 +71,13 @@ style="width: 50%; "
 
 ~~**Im Praxisteil verwendete Wendeschneidplatten**~~
 
-Der folgenden Tabelle können Sie die Schnittparameter entnehmen. Beachten Sie die Ihrer Gruppe zugeordnete Wendeschneidplatte!
+Der folgenden Tabelle können Sie die Schnittparameter entnehmen. Beachten Sie die ~~Ihrer Gruppe~~ zugeordnete Wendeschneidplatte!
 
-<!--
-style="width: 100%; "
--->
+
 |  |  | Startwerte | | |
 |--- |:---: |--- |--- | ---|
 | **Wendeschneidplatte** | | **ap** in mm | **fn** in mm/U | **vc** in m/min |
-| WNMG | | | | |
+| **WNMG** | | | | |
 |WNMG 080412 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/WNMG-080412-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
@@ -90,7 +90,7 @@ style = "width: 50%; "
 |WNMG 080404 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/WNMG-080404-SS.png)<!--
 style = "width: 50%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
-|CNMG | | | | |
+|**CNMG** | | | | |
 |CNMG 120408 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/CNMG-120408-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
@@ -103,7 +103,7 @@ style = "width: 50%; "
 |CNMG 120412 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/CNMG-120412-WSS.png)<!--
 style = "width: 50%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
-|DNMG | | | | |
+|**DNMG** | | | | |
 |DNMG 110408 – SS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DNMG-110408-SS.png)<!--
 style = "width: 40%; "
 --> |0,2 – **1,1** – 2  | 0,1 – **0,25** – 0,4 | 150 – **280** – 400|
@@ -113,7 +113,7 @@ style = "width: 40%; "
 |DNMG 110408 – WSS HB7020 | ![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/DNMG-110408-WSS.png)<!--
 style = "width: 40%; "
 --> |0,3 – **1,4** – 2,5  | 0,1 – **0,3** – 0,5 | 100 – **190** – 280|
-***
+
 
 ## Kraftsensorik
 
