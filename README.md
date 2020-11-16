@@ -37,8 +37,7 @@ style = "width: 75%; "
 
 **Technische Daten**
 
-|Spitzenweite|$mm$ |<script input="text" value=" "> let str = "@input"
-str </script>|
+|Spitzenweite|$mm$ |$1500$ |
 | Umlauf- $\text{\O}$ über Bett | $mm$|$570$ |
 |Umlauf- $\text{\O}$ über Schlitten | $mm$ | $340$ |
 | Vorschubkraft X max. | $daN$ | $1000$ |
