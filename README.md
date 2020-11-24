@@ -45,7 +45,7 @@ style = "width: 75%; "
 | Spindeldrehzahl| $U/min$| $0\space-\space2500$|
 |Drehzahlregelung| | stufenlos|
 | Antriebsleistung bei $40/100\space$ % ED|$kW $| $25/17$|
-| Max. Nennmoment an der Hauptspindel| $Nm$| $764/519$|
+| max. Nennmoment an der Hauptspindel| $Nm$| $764/519$|
 |Prozesskühlung| | Emulsion |
 
 
@@ -187,13 +187,14 @@ style = "width: 60%; "
 
 
 <br/>
-~~**Software: Waveline Evovis Mobile**~~<br>
+~~**Software: Evovis Mobile**~~<br>
 
-PC- basierendes Auswerteprogramm für  mobile Rauheitsmessgeräte. Funktionsbereiche: <br>
+PC- basierendes Auswerteprogramm für  mobile Rauheitsmessgeräte. <br>
+
+Funktionsbereiche: <br>
 
 * direkte Messplatzsteuerung des angeschlossenen Rauheitsmessgerätes
-* Auswertung offline erfasster Messungen (Rauheitsprofile)
-* Auswertung offline erfasster Messungen (Kenngrößendateien)
+* Auswertung offline erfasster Messungen (Rauheitsprofile und Kenngrößen)
 * Datenexport Merkmals- und Profildaten
 
 ## Durchmessermessung
@@ -212,7 +213,7 @@ style = "width: 60%; "
 * reduzierte Messflächen Ø 3 mm
 * kabellose Datenübertragung
 * IP 65
-* Einstellmaß (Messbereich 75 - 100 mm)
+* Messbereich 75 - 100 mm
 * Ziffernschrittwert	0,001 mm
 * Fehlergrenze 3 µm
 * Parallelitätsabweichung 3 µm
