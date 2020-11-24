@@ -42,7 +42,7 @@ style = "width: 75%; "
 |Umlauf- $\text{\O}$ über Schlitten | $mm$ | $340$ |
 | Vorschubkraft X max. | $daN$ | $1000$ |
 | Vorschubkraft Z max. | $daN$|$1500$|
-| Spindeldrehzahl| $U/mm$| $0\space-\space2500$|
+| Spindeldrehzahl| $U/min$| $0\space-\space2500$|
 |Drehzahlregelung| | stufenlos|
 | Antriebsleistung bei $40/100\space$ % ED|$kW $| $25/17$|
 | Max. Nennmoment an der Hauptspindel| $Nm$| $764/519$|
@@ -210,14 +210,12 @@ style = "width: 60%; "
 **Eigenschaften**
 
 * reduzierte Messflächen Ø 3 mm
-* MarConnect (Bidirektional)
-* USB
+* kabellose Datenübertragung
 * IP 65
 * Einstellmaß (Messbereich 75 - 100 mm)
 * Ziffernschrittwert	0,001 mm
-* Ziffernschrittwert	0,00005 in
-* Fehlergrenze µm	3 µm
-* Parallelitätsabweichung in µm	3 µm
-* Ebenheitsabweichung in µm	0,6 µm
+* Fehlergrenze 3 µm
+* Parallelitätsabweichung 3 µm
+* Ebenheitsabweichung 0,6 µm
 * Spindeldurchmesser	6,5 mm
 * Spindelsteigung	0,5 mm
