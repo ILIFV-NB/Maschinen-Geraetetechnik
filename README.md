@@ -50,9 +50,9 @@ style = "width: 75%; "
 
 **Antriebsleistung und Drehmomentenverlauf**
 
-|![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/Antriebsleistung_und_Drehmomentenverlauf_E300.jpg)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/Antriebsleistung_und_Drehmomentenverlauf_E300.png)<!--
 style = "width: 75%; "
---> |
+-->
 
 
 ## Werkzeuge
