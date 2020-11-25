@@ -48,6 +48,12 @@ style = "width: 75%; "
 | max. Nennmoment an der Hauptspindel| $Nm$| $764/519$|
 |Prozesskühlung| | Emulsion |
 
+**Antriebsleistung und Drehmomentenverlauf**
+
+|![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/Antriebsleistung_und_Drehmomentenverlauf_E300.jpg)<!--
+style = "width: 75%; "
+--> |
+
 
 ## Werkzeuge
 
