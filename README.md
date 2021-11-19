@@ -37,6 +37,7 @@ style = "width: 75%; "
 
 **Technische Daten**
 
+|  |  |  |
 |Spitzenweite|$mm$ |$1500$ |
 | Umlauf- $\text{\O}$ über Bett | $mm$|$570$ |
 |Umlauf- $\text{\O}$ über Schlitten | $mm$ | $340$ |
