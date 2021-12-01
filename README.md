@@ -163,7 +163,7 @@ style = "width: 40%; "
 
 ~~**Rauheitsmessgerät**~~
 
-![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/HommelT1000basic-gr.png)<!--
+![image](https://raw.githubusercontent.com/ILIFV-NB/Maschinen-Geraetetechnik/master/images/MarSurf_PS10.png)<!--
 style = "width: 60%; "
 -->
 
